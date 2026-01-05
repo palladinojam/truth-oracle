@@ -1,0 +1,790 @@
+{
+  "test_date": "2026-01-04T08:33:48.625234",
+  "results": {
+    "total": 96,
+    "correct": 95,
+    "crypto": {
+      "total": 46,
+      "correct": 46
+    },
+    "weather": {
+      "total": 25,
+      "correct": 25
+    },
+    "news": {
+      "total": 25,
+      "correct": 24
+    },
+    "events": [
+      {
+        "category": "crypto",
+        "description": "Bitcoin above $90k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Bitcoin above $95k",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Bitcoin above $85k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Bitcoin above $100k",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Bitcoin below $50k",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Bitcoin below $100k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Bitcoin above $80k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Bitcoin below $95k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Ethereum above $3k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Ethereum above $3.5k",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Ethereum above $2.5k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Ethereum above $5k",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Ethereum below $2k",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Ethereum below $4k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Ethereum above $2.8k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Ethereum below $3.5k",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Solana above $100",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Solana above $200",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Solana below $100",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Solana above $120",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Solana below $150",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "XRP above $1.50",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "XRP above $3",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "XRP below $1",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "XRP above $2",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "XRP below $2.50",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Cardano above $0.30",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Cardano above $1",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Cardano below $0.20",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Cardano above $0.35",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Cardano below $0.50",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Dogecoin above $0.10",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Dogecoin above $0.50",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Dogecoin below $0.05",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Dogecoin above $0.14",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Dogecoin below $0.20",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Litecoin above $70",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Litecoin above $150",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Litecoin below $50",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Litecoin above $80",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Litecoin below $100",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Polkadot above $1.50",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Polkadot above $5",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Polkadot below $1",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Polkadot above $2",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "crypto",
+        "description": "Polkadot below $3",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "NYC above freezing (32\u00b0F)",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 0.95
+      },
+      {
+        "category": "weather",
+        "description": "NYC above 0\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.95
+      },
+      {
+        "category": "weather",
+        "description": "NYC below 100\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.95
+      },
+      {
+        "category": "weather",
+        "description": "NYC above 20\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.95
+      },
+      {
+        "category": "weather",
+        "description": "NYC below 50\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.95
+      },
+      {
+        "category": "weather",
+        "description": "LA above 50\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "LA above 80\u00b0F",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "LA below 100\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "LA above 40\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "LA below 70\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Miami above 60\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Miami above 90\u00b0F",
+        "expected": false,
+        "verified": false,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Miami below 100\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Miami above 50\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Miami below 80\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Chicago above 0\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Chicago below 50\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Seattle above 40\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Seattle below 80\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Boston above 20\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Boston below 60\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Phoenix above 50\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "weather",
+        "description": "Phoenix below 100\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.95
+      },
+      {
+        "category": "weather",
+        "description": "Denver above 20\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.85
+      },
+      {
+        "category": "weather",
+        "description": "Denver below 70\u00b0F",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.85
+      },
+      {
+        "category": "news",
+        "description": "Trump president January 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Biden president January 2025",
+        "expected": false,
+        "verified": true,
+        "correct": false,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Bitcoin price news 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Tesla Elon Musk news 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Apple technology news 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Christmas December 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "New Year 2026 celebration",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "SpaceX launches 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.95
+      },
+      {
+        "category": "news",
+        "description": "AI technology growth 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Ukraine Russia conflict 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Federal Reserve interest rates 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Stock market news 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Cryptocurrency market 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Climate change summit 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Olympics Paris 2024",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "NFL season 2024-2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.95
+      },
+      {
+        "category": "news",
+        "description": "NBA season 2024-2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Super Bowl 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Microsoft news 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Amazon news 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Congress United States 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "Supreme Court 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "European Union news 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "China economy 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 1.0
+      },
+      {
+        "category": "news",
+        "description": "India news 2025",
+        "expected": true,
+        "verified": true,
+        "correct": true,
+        "confidence": 0.95
+      }
+    ]
+  },
+  "target_accuracy": 95.0
+}
